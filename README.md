@@ -28,6 +28,8 @@
 
 # Come here, run web, SUCCESS. BUT can not access other links
 1. Go to dashboard by domain .xyz/wp-admin
+  user: admin
+  pass: uit_computerscience
 2. Settings -> Permalinks -> Save
 3. Plugins -> Add new -> search "search and replace" -> activete
 4. Tools -> search and replace -> change search for "localhost:80" and replace with "domain .xyz"

@@ -27,8 +27,8 @@
 1. Change option value in "siteurl" and "home" to link domain
 
 # Come here, run web, SUCCESS. BUT can not access other links
-1. Go to dashboard by domain .xyz/wp-admin \n
-  user: admin \n
+1. Go to dashboard by domain .xyz/wp-admin <br/>
+  user: admin <br/>
   pass: uit_computerscience
 2. Settings -> Permalinks -> Save
 3. Plugins -> Add new -> search "search and replace" -> activete

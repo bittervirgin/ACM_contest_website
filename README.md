@@ -16,7 +16,7 @@
 7. Comeback to cPanel
 8. phpMyAdmin -> database [1] -> import -> file .SQL -> GO
 
-#After completing the above steps, test run the web, FAIL. Right here, gg or do the steps below
+# After completing the above steps, test run the web, FAIL. Right here, gg or do the steps below
 
 # Editor file wp-config.php in public_html
 1. Change database name in line "define( 'DB_NAME', ' [1] ' );
